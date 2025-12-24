@@ -172,7 +172,11 @@ export function ChatPopover() {
                   <Mail className="h-5 w-5 text-shop_dark_green mt-0.5" />
                   <div className="grid gap-1">
                     <p className="text-sm font-medium">Email</p>
-                    <a href="mailto:info.rosiewig@gmail.com" className="text-sm text-muted-foreground hover:text-shop_dark_green">
+                    <a 
+                    href="mailto:info.rosiewig@gmail.com" 
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm text-muted-foreground hover:text-shop_dark_green">
                       info.rosiewig@gmail.com
                     </a>
                   </div>
