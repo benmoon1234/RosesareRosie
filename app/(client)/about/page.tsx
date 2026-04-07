@@ -10,7 +10,7 @@ const AboutPage = () => {
   return (
     <div>    
       <About />
-      I need to see if this is changing anything in the main website
+      Why didnt you show up?
       {/* <Main /> */}
     <Feedback />
     <Instagram />
